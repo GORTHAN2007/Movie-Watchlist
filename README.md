@@ -14,4 +14,4 @@ A beautiful, responsive web application that fetches and displays movies from th
 - JavaScript
 
 ## Live Deployment
-Check out the live application here: [Insert Link Here]
+Check out the live application here: [Movie Watchlist Live](https://moonlit-basbousa-dade93.netlify.app/)
