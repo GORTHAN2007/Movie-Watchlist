@@ -11,9 +11,7 @@ A beautiful, responsive web application that fetches and displays movies from th
 ## Technologies Used
 - HTML5
 - CSS3 (CSS Grid, Flexbox, Media Queries)
-- Vanilla JavaScript (Fetch API, ES6+)
+- JavaScript
 
-## Developed By
-**Arju Srivastav**
-- [LinkedIn](https://www.linkedin.com/in/arjusrivastav)
-- [GitHub](https://github.com/GORTHAN2007)
+## Live Deployment
+Check out the live application here: [Insert Link Here]
